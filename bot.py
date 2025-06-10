@@ -3,6 +3,7 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 import fitz
 import os
 import mimetypes
+import cv2
 
 # Replace these values with your own
 api_id = "28918271"
